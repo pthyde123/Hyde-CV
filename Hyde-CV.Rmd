@@ -15,7 +15,8 @@ knitr::opts_chunk$set(echo = TRUE)
 Research Specialist
 and some bonus text!!!!
 so many credentials!
-Setter Lab  
+even more credentials!
+in this great Lab  
 Soil and Crop Science  
 Cornell University  
 [NextGen Cassava](https://www.nextgencassava.org/)
