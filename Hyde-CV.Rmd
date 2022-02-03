@@ -13,8 +13,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ##Peter Hyde
 <hr />
 Research Specialist
-vvvvvvvv
+<<<<<<< HEAD
 Setter Lab  
+=======
+
+>>>>>>> 723c05b101a1764565ed10fceb10fd44f903bdd1
 Soil and Crop Science  
 Cornell University  
 [NextGen Cassava](https://www.nextgencassava.org/)
