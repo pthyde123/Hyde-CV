@@ -13,8 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ##Peter Hyde
 <hr />
 Research Specialist
-and some bonus text!!!!
-so many credentials!
+vvvvvvvv
 Setter Lab  
 Soil and Crop Science  
 Cornell University  
