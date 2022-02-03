@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ##Peter Hyde
 <hr />
-Research Support Specialist  
+Research Support Specialist wwwww  
 Setter Lab  
 Soil and Crop Science  
 Cornell University  
